@@ -69,6 +69,7 @@ This release contains bugfixes and enhancement for 1.9.18
 See CHANGELOG file for detailed list of issues fixed.
 
 Give a look also to:
+
 https://github.com/TestLinkOpenSourceTRMS/testlink-code/wiki
 https://github.com/TestLinkOpenSourceTRMS/testlink-documentation/wiki
 
