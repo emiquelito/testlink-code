@@ -657,7 +657,7 @@ Without this property TestLink **WILL CRASH** => this is a desired behaviour
 
   - [CSRF Prevention Cheat Sheet][csrf]
 
-## 15. Use forum.testlink.org
+## 15. Use forum.testlink.org TEST
 
 Information has been collected with users' help
 
