@@ -737,4 +737,4 @@ BEFORE the commit ID. => then Nike => Just DO IT
 [chgl]: http://mantis.testlink.org/changelog_page.php
 [7817]: http://mantis.testlink.org/view.php?id=7817
 [gmail]: mailto:testlink.forum@gmail.com
-[tjp]: http://sourceforge.jp/projects/testlinkjp/
+[tjp]: http://sourceforge.jp/projects/testlinkjp/ TEST
